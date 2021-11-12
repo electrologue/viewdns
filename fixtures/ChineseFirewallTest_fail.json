@@ -1,0 +1,80 @@
+{
+  "query": {
+    "tool": "chinesefirewall_PRO",
+    "domain": "twitter.com"
+  },
+  "expectedresponse": "199.59.148.82 199.59.149.230 199.59.150.39",
+  "response": {
+    "detail": {
+      "server": [
+        {
+          "location": "Beijing",
+          "resultvalue": "59.24.3.173",
+          "resultstatus": "fail"
+        },
+        {
+          "location": "Shenzen",
+          "resultvalue": "59.24.3.173",
+          "resultstatus": "fail"
+        },
+        {
+          "location": "Inner Mongolia",
+          "resultvalue": "59.24.3.173",
+          "resultstatus": "fail"
+        },
+        {
+          "location": "Heilongjiang Province",
+          "resultvalue": "59.24.3.173",
+          "resultstatus": "fail"
+        },
+        {
+          "location": "Yunnan Province",
+          "resultvalue": "59.24.3.173",
+          "resultstatus": "fail"
+        }
+      ]
+    },
+    "summary": {
+      "result": "not_visible",
+      "description": "No servers were able to reach your site on the correct IP address.  This means that any URL's on this host are most likely NOT accessible from within mainland China."
+    }
+  },
+  "v2response": {
+    "dnsresults": {
+      "server": [
+        {
+          "location": "Beijing",
+          "resultvalue": "59.24.3.173",
+          "resultstatus": "fail"
+        },
+        {
+          "location": "Shenzen",
+          "resultvalue": "59.24.3.173",
+          "resultstatus": "fail"
+        },
+        {
+          "location": "Inner Mongolia",
+          "resultvalue": "59.24.3.173",
+          "resultstatus": "fail"
+        },
+        {
+          "location": "Heilongjiang Province",
+          "resultvalue": "59.24.3.173",
+          "resultstatus": "fail"
+        },
+        {
+          "location": "Yunnan Province",
+          "resultvalue": "59.24.3.173",
+          "resultstatus": "fail"
+        }
+      ],
+      "summary": "not_visible",
+      "description": "No servers were able to reach your site on the correct IP address.  This means that any URL's on this host are most likely NOT accessible from within mainland China."
+    },
+    "httpresults": {
+      "detail": "Connection timed out.",
+      "summary": "error",
+      "description": "This URL appears to be blocked in China."
+    }
+  }
+}

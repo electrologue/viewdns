@@ -1,0 +1,27 @@
+{
+  "query": {
+    "tool": "reverseip_PRO",
+    "host": "199.59.148.10"
+  },
+  "response": {
+    "domain_count": "4",
+    "domains": [
+      {
+        "name": "gezwitscher.com",
+        "last_resolved": "2011-04-04"
+      },
+      {
+        "name": "twitter.com",
+        "last_resolved": "2011-04-04"
+      },
+      {
+        "name": "twitterfriendblaster.com",
+        "last_resolved": "2012-01-11"
+      },
+      {
+        "name": "twttr.com",
+        "last_resolved": "2012-02-21"
+      }
+    ]
+  }
+}

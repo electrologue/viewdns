@@ -1,0 +1,9 @@
+{
+  "query": {
+    "tool": "abusecontact_PRO",
+    "domain": "twitter.com"
+  },
+  "response": {
+    "abusecontact": "abuse@twitter.com"
+  }
+}

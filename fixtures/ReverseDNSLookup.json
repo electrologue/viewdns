@@ -1,0 +1,9 @@
+{
+  "query": {
+    "tool": "reversedns_PRO",
+    "ip": "199.59.148.10"
+  },
+  "response": {
+    "rdns": "r-199-59-148-10.twttr.com"
+  }
+}

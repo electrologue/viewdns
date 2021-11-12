@@ -1,0 +1,29 @@
+{
+  "query": {
+    "tool": "iphistory_PRO",
+    "domain": "example.com"
+  },
+  "response": {
+    "records": [{
+      "ip": "93.184.216.34",
+      "location": "United States",
+      "owner": "NETBLK-03-EU-93-184-216-0-24",
+      "lastseen": "2016-09-13"
+    }, {
+      "ip": "93.184.216.119",
+      "location": "United States",
+      "owner": "NETBLK-03-EU-93-184-216-0-24",
+      "lastseen": "2014-12-09"
+    }, {
+      "ip": "192.0.43.10",
+      "location": "Los Angeles - United States",
+      "owner": "ICANN",
+      "lastseen": "2013-07-09"
+    }, {
+      "ip": "192.0.32.10",
+      "location": "Los Angeles - United States",
+      "owner": "ICANN",
+      "lastseen": "2011-06-05"
+    }]
+  }
+}

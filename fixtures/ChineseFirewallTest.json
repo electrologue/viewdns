@@ -1,0 +1,80 @@
+{
+  "query": {
+    "tool": "chinesefirewall_PRO",
+    "domain": "test.com"
+  },
+  "expectedresponse": "174.36.85.72",
+  "response": {
+    "detail": {
+      "server": [
+        {
+          "location": "Beijing",
+          "resultvalue": "174.36.85.72",
+          "resultstatus": "ok"
+        },
+        {
+          "location": "Shenzen",
+          "resultvalue": "174.36.85.72",
+          "resultstatus": "ok"
+        },
+        {
+          "location": "Inner Mongolia",
+          "resultvalue": "174.36.85.72",
+          "resultstatus": "ok"
+        },
+        {
+          "location": "Heilongjiang Province",
+          "resultvalue": "174.36.85.72",
+          "resultstatus": "ok"
+        },
+        {
+          "location": "Yunnan Province",
+          "resultvalue": "174.36.85.72",
+          "resultstatus": "ok"
+        }
+      ]
+    },
+    "summary": {
+      "result": "visible",
+      "description": "All servers were able to reach your site at the correct IP address.  This means that the hostname itself is accessible from within mainland China."
+    }
+  },
+  "v2response": {
+    "dnsresults": {
+      "server": [
+        {
+          "location": "Beijing",
+          "resultvalue": "174.36.85.72",
+          "resultstatus": "ok"
+        },
+        {
+          "location": "Shenzen",
+          "resultvalue": "174.36.85.72",
+          "resultstatus": "ok"
+        },
+        {
+          "location": "Inner Mongolia",
+          "resultvalue": "174.36.85.72",
+          "resultstatus": "ok"
+        },
+        {
+          "location": "Heilongjiang Province",
+          "resultvalue": "174.36.85.72",
+          "resultstatus": "ok"
+        },
+        {
+          "location": "Yunnan Province",
+          "resultvalue": "174.36.85.72",
+          "resultstatus": "ok"
+        }
+      ],
+      "summary": "visible",
+      "description": "All servers were able to reach your site at the correct IP address.  This means that the hostname itself is accessible from within mainland China."
+    },
+    "httpresults": {
+      "detail": "HTTP/1.1 200 OK",
+      "summary": "ok",
+      "description": "This URL appears to be accessible from mainland China."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "query": {
+    "tool": "ping_PRO",
+    "host": "twitter.com"
+  },
+  "response": {
+    "replys": [
+      {
+        "rtt": "32.5 ms"
+      },
+      {
+        "rtt": "36.2 ms"
+      },
+      {
+        "rtt": "30.8 ms"
+      },
+      {
+        "rtt": "36.6 ms"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "query": {
+    "tool": "iranfirewall_PRO",
+    "siteurl": "http:\/\/www.test.com"
+  },
+  "response": {
+    "result": "ok"
+  }
+}

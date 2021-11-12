@@ -1,0 +1,51 @@
+{
+  "query": {
+    "tool": "dnsrecord_PRO",
+    "domain": "twitter.com",
+    "recordtype": "MX"
+  },
+  "response": {
+    "records": [
+      {
+        "name": "twitter.com.",
+        "ttl": "600",
+        "class": "IN",
+        "type": "MX",
+        "priority": "10",
+        "data": "aspmx.l.google.com."
+      },
+      {
+        "name": "twitter.com.",
+        "ttl": "600",
+        "class": "IN",
+        "type": "MX",
+        "priority": "20",
+        "data": "alt1.aspmx.l.google.com."
+      },
+      {
+        "name": "twitter.com.",
+        "ttl": "600",
+        "class": "IN",
+        "type": "MX",
+        "priority": "20",
+        "data": "alt2.aspmx.l.google.com."
+      },
+      {
+        "name": "twitter.com.",
+        "ttl": "600",
+        "class": "IN",
+        "type": "MX",
+        "priority": "30",
+        "data": "ASPMX2.GOOGLEMAIL.com."
+      },
+      {
+        "name": "twitter.com.",
+        "ttl": "600",
+        "class": "IN",
+        "type": "MX",
+        "priority": "30",
+        "data": "ASPMX3.GOOGLEMAIL.com."
+      }
+    ]
+  }
+}

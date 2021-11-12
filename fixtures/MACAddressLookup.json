@@ -1,0 +1,9 @@
+{
+  "query": {
+    "tool": "maclookup_PRO",
+    "mac": "000502345678"
+  },
+  "response": {
+    "manufacturer": "APPLE COMPUTER - 20650 VALLEY GREEN DRIVE - CUPERTINO CA 95014 - UNITED STATES"
+  }
+}

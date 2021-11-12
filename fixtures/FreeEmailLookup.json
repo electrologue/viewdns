@@ -1,0 +1,9 @@
+{
+  "query": {
+    "tool": "freeemail_PRO",
+    "domain": "test.com"
+  },
+  "response": {
+    "result": "This domain DOES NOT appear to provide free email addresses."
+  }
+}

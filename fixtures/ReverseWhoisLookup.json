@@ -1,0 +1,43 @@
+{
+  "query": {
+    "tool": "reversewhois_PRO",
+    "nameserver": "domain@example.com"
+  },
+  "response": {
+    "result_count": "6",
+    "total_pages": "1",
+    "current_page": "1",
+    "matches": [
+      {
+        "domain": "chibrary.com",
+        "created_date": "2011-11-13",
+        "registrar": "NAME.COM, INC."
+      },
+      {
+        "domain": "chibrary.net",
+        "created_date": "2011-11-13",
+        "registrar": "NAME.COM, INC."
+      },
+      {
+        "domain": "chibrary.org",
+        "created_date": "2011-11-13",
+        "registrar": "NAME.COM, LLC (R1288-LROR)"
+      },
+      {
+        "domain": "geekmelange.com",
+        "created_date": "2013-04-02",
+        "registrar": "NAME.COM, INC."
+      },
+      {
+        "domain": "taskforcetaro.com",
+        "created_date": "2013-03-11",
+        "registrar": "NAME.COM, INC."
+      },
+      {
+        "domain": "taskforcetrinity.com",
+        "created_date": "2012-05-22",
+        "registrar": "NAME.COM, INC."
+      }
+    ]
+  }
+}

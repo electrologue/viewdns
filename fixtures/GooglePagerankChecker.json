@@ -1,0 +1,9 @@
+{
+  "query": {
+    "tool": "pagerank_PRO",
+    "domain": "twitter.com"
+  },
+  "response": {
+    "pagerank": "10"
+  }
+}

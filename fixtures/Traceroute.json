@@ -1,0 +1,52 @@
+{
+  "query": {
+    "tool": "traceroute_PRO",
+    "domain": "twitter.com"
+  },
+  "response": {
+    "hops": [
+      {
+        "number": "1",
+        "hostname": "obfuscated.internal.network.com",
+        "ip": "0.0.0.0",
+        "rtt": "0.000"
+      },
+      {
+        "number": "2",
+        "hostname": "obfuscated.internal.network.com",
+        "ip": "0.0.0.0",
+        "rtt": "1.000"
+      },
+      {
+        "number": "3",
+        "hostname": "v995.core1.sjc1.he.net",
+        "ip": "64.71.150.21",
+        "rtt": "7.580"
+      },
+      {
+        "number": "4",
+        "hostname": "10gigabitethernet2-1.core1.sjc2.he.net",
+        "ip": "72.52.92.118",
+        "rtt": "0.706"
+      },
+      {
+        "number": "5",
+        "hostname": "eqix2.cr2.sjc2.twttr.com",
+        "ip": "206.223.116.101",
+        "rtt": "1.937"
+      },
+      {
+        "number": "6",
+        "hostname": "xe-11-0-0.smf1-er1.twttr.com",
+        "ip": "199.16.159.51",
+        "rtt": "13.743"
+      },
+      {
+        "number": "7",
+        "hostname": "r-199-59-148-10.twttr.com",
+        "ip": "199.59.148.10",
+        "rtt": "13.249"
+      }
+    ]
+  }
+}

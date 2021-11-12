@@ -1,0 +1,80 @@
+{
+  "query": {
+    "tool": "portscan_PRO",
+    "host": "viewdns.info"
+  },
+  "response": {
+    "port": [
+      {
+        "number": "21",
+        "service": "FTP",
+        "status": "closed"
+      },
+      {
+        "number": "22",
+        "service": "SSH",
+        "status": "closed"
+      },
+      {
+        "number": "23",
+        "service": "Telnet",
+        "status": "closed"
+      },
+      {
+        "number": "25",
+        "service": "SMTP",
+        "status": "closed"
+      },
+      {
+        "number": "80",
+        "service": "HTTP",
+        "status": "open"
+      },
+      {
+        "number": "110",
+        "service": "POP3",
+        "status": "closed"
+      },
+      {
+        "number": "139",
+        "service": "NETBIOS",
+        "status": "closed"
+      },
+      {
+        "number": "143",
+        "service": "IMAP",
+        "status": "closed"
+      },
+      {
+        "number": "443",
+        "service": "HTTPS",
+        "status": "closed"
+      },
+      {
+        "number": "445",
+        "service": "SMB",
+        "status": "closed"
+      },
+      {
+        "number": "1433",
+        "service": "MSSQL",
+        "status": "closed"
+      },
+      {
+        "number": "1521",
+        "service": "ORACLE",
+        "status": "closed"
+      },
+      {
+        "number": "3306",
+        "service": "MySQL",
+        "status": "closed"
+      },
+      {
+        "number": "3389",
+        "service": "Remote Desktop",
+        "status": "closed"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "query": {
+    "tool": "whois_PRO",
+    "domain": "twitter.com"
+  },
+  "response": {
+    "registrant": "Twitter, Inc",
+    "registration": {
+      "created": "2011-08-31",
+      "expires": "2019-01-22",
+      "updated": "2011-08-30",
+      "registrar": "MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE",
+      "statuses": [
+        "clientTransferProhibited"
+      ]
+    },
+    "name_servers": [
+      "ns1.p34.dynect.net (208.78.70.34)",
+      "ns2.p34.dynect.net (204.13.250.34)",
+      "ns3.p34.dynect.net (208.78.71.34)",
+      "ns4.p34.dynect.net (204.13.251.34)"
+    ],
+    "rawdata": "\\nDomain Name.......... twitter.com\\n  Creation Date........ 2000-01-22\\nRegistration Date.... 2011-08-31\\n  Expiry Date.......... 2019-01-22\\n  OrganizationName.... Twitter, Inc.\\n  Organization Address. 795 Folsom Street\\n  Organization Address.Suite 600\\n  Organization Address. San Francisco\\n  Organization Address. 94107\\nOrganization Address. CA\\n  Organization Address. UNITED STATES\\n\\nAdmin Name...........Domain Admin\\n  Admin Address........ 795 Folsom Street\\n  Admin Address........ Suite 600\\n  Admin Address........ San Francisco\\n  Admin Address........ 94107\\n  Admin Address........ CA\\n  Admin Address........ UNITED STATES\\n  Admin Email..........admin@melbourneitdbs.com\\n  Admin Phone.......... +415.2229670\\n  Admin Fax............+415.2220922\\n\\nTech Name............ Tech Admin\\n  Tech Address......... 795 FolsomStreet\\n  Tech Address......... Suite 600\\n  Tech Address......... San Francisco\\n  TechAddress......... 94107\\n  Tech Address......... CA\\n  Tech Address......... UNITED STATES\\nTech Email........... domains-tech@twitter.com\\n  Tech Phone........... +415.2229670\\nTech Fax............. +415.2220922\\n  Name Server.......... NS2.P34.DYNECT.NET\\n  NameServer.......... NS3.P34.DYNECT.NET\\n  Name Server.......... NS4.P34.DYNECT.NET\\n  NameServer.......... NS1.P34.DYNECT.NET\\n\\n\\n"
+  }
+}

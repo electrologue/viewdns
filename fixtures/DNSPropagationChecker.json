@@ -1,0 +1,106 @@
+{
+  "query": {
+    "tool": "propagation_PRO",
+    "domain": "test.com"
+  },
+  "expectedresponse": "205.204.70.252",
+  "response": {
+    "server": [
+      {
+        "location": "Bangkok, Thailand",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "Auckland, New Zealand",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "Gent, Belgium",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "Toronto, Canada",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "Paris, France",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "Echterdingen, Germany",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "Arizona, United States",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "New York, United States",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "Oklahoma, United States",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "San Francisco, United States",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "Washington DC, United States",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "Melbourne, Australia",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "Sydney, Australia",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "Beijing, China",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "Tokyo, Japan",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "Monterrey, Mexico",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "Johannesburg, South Africa",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "Moscow, Russia",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      },
+      {
+        "location": "Manchester, United Kingdom",
+        "resultvalue": "205.204.70.252",
+        "resultstatus": "ok"
+      }
+    ]
+  }
+}
